@@ -1,2 +1,2 @@
 # Roguelike-C++
-Following the tutorial for roguebasing c++ tutorial, with some modifications
+Following the tutorial for roguebasine's c++ tutorial, with some modifications
